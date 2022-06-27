@@ -1,0 +1,25 @@
+.logRegForm{
+    margin: auto;
+    margin-top: 20px;
+    width: 60%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tasksForm{
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content:left;
+}
+
+.formContent{
+    text-align: center;
+}
+
+.formItem{
+    font-size: 12pt;
+    margin: 3px;
+}
